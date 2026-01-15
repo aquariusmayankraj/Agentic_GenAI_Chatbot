@@ -32,12 +32,12 @@ This project allows users to chat with documents (PDFs) using embeddings and sem
 ```text
 Agentic AI Chatbot/
 │
-├── frontend.py                 # Frontend interface
-├── rag_pipeline.py             # RAG logic (retrieval + generation)
-├── vector_database.py          # Vector store creation & querying
-├── Pipfile                     # Dependencies
-├── Pipfile.lock                # Locked dependency versions
-├── vectorstore/                # Stored embeddings
+├── frontend.py              
+├── rag_pipeline.py            
+├── vector_database.py         
+├── Pipfile                    
+├── Pipfile.lock                
+├── vectorstore/                
 ├── universal_declaration_of_human_rights.pdf
 └── README.md
 
